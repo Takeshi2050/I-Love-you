@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: red;
+}
+
+p {
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 150%
+}
+
+footer {
+    color: red;
+    font-size: 150%;
+}
